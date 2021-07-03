@@ -1,5 +1,5 @@
 # camilaMusic Telegram Bot - This is a pyrogram bot based on pytgcalls for playing songs or audio files in Telegram group voice chat
-[![camila](https://telegra.ph/file/87f281fe90bb91d3d6193.jpg)](https://t.me/camila_support)
+[![camila](https://telegra.ph/file/8a3274e93484f21d12b68.jpg)](https://t.me/royalashu4u)
 
 
 ## Notes
@@ -58,9 +58,9 @@ Copy `example.env` to `.env` and fill it with your credentials.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/war-legend/camilamusic/)
 
 ## Support
-- [Helper](https://t.me/itsmelegend)
-- [Group](https://t.me/camila_support)
+- [Helper](https://t.me/royalashu4u)
+- [Group](https://t.me/royalashu4u)
 ## Credits
-- [abhishek](https://t.me/itsmelegend)
+- [ASHISH](https://t.me/royalashu4u)
 
 
